@@ -1,0 +1,66 @@
+body{ background-color: #ADD8E6;} 
+
+p { 
+    color: black; 
+    font: 15px montserrat, sans-serif;
+} 
+
+h3{ color: black; }
+
+table {
+background-color:#DCDCDC;
+border-collapse: collapse;
+color:Black;
+margin-right: 20px;
+border: 2px solid black;
+margin:auto;
+}
+
+form {
+background-color:#ADD8E6;
+font: 15px montserrat, sans-serif;
+color:Black;
+border-radius: 3px;
+margin:auto;
+}
+
+select {
+background-color:#F0F8FF;
+font: 15px montserrat, sans-serif;
+color:white;
+}
+
+input {
+background-color: #F0F8FF;
+font: 15px montserrat, sans-serif;
+color:black;
+border: 2px solid white;
+border-radius: 3px;
+}
+
+
+.botao {
+background-color:white;
+font: 15px montserrat, sans-serif;
+color:Black;
+margin-right: 20px;
+border: 2px solid white;
+text-align: center;
+}
+
+
+.status{
+    background-color: #F0F8FF;
+    font: 15px montserrat, sans-serif;
+    color:black;
+    border: 2px solid white;
+    border-radius: 3px;
+    width: 70%;
+}
+    
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    
+}
